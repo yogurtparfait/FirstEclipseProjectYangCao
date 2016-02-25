@@ -1,6 +1,5 @@
 import dblibrary.project.csci230.*;
 import java.io.*;
-import java.util.*;
 
 /** 
  * To run, issue: java DBLibraryDriver "YourDatabaseName" "YourDatabaseUsername" "YourDatabasePassword" 
